@@ -3,4 +3,6 @@ function paiementMTN(phone, amount) {
         method: 'POST',
         url: 'https://sandbox.momodeveloper.mtn.com/collection/v1_0/requesttopay',
     }
+
+    var method = "Paiement avec MTN Mobile Money"
 }
