@@ -3,4 +3,6 @@ function paiementOrange() {
         method: 'POST',
         url: 'https://api.orange.com/orange-money-webpay/dev/v1/webpayment',
     }
+
+    var method = "Trop tard"
 }
