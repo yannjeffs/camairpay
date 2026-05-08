@@ -4,5 +4,5 @@ function paiementOrange() {
         url: 'https://api.orange.com/orange-money-webpay/dev/v1/webpayment',
     }
 
-    var method = "Trop tard"
+    var method = "Paiement avec Orange Money"
 }
